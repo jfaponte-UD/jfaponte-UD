@@ -2,6 +2,7 @@
 <h3 align="center">A passionate developer</h3>
 
 <p align="left">
+  "Yo soy católico, hincha de Millos (SML 🩵🤍), bogotano, rolo. ¿Estamos?"
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
